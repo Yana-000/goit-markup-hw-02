@@ -56,7 +56,13 @@ a {
 address {
   font-style: normal;
 }
-
+.adress-item-contact {
+  font-size: 16px;
+  font-weight: 500;
+  color: #434455;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+}
 .section-page {
   background-color: #2e2f42;
 }
@@ -111,7 +117,7 @@ address {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-  line-height: 1.1;
+  line-height: 1.11;
 }
 .col-list {
   background-color: #ffffff;
