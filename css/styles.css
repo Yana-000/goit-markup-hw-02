@@ -44,8 +44,11 @@ a {
 .nav-link-button:hover {
   color: #404bbf;
 }
-.nav-link-button:active {
+.nav-link-button:focus {
   color: #404bbf;
+}
+address {
+  font-style: normal;
 }
 .socials-item-link {
   font-family: "Roboto", sans-serif;
@@ -59,7 +62,7 @@ a {
 .socials-item-link:hover {
   color: #404bbf;
 }
-.socials-item-link:active {
+.socials-item-link:focus {
   color: #404bbf;
 }
 .section-page {
