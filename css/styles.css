@@ -47,10 +47,13 @@ a {
 .nav-link-button:focus {
   color: #404bbf;
 }
-address {
-  font-style: normal;
+.nav-link:hover {
+  color: #404bbf;
 }
-.socials-item-link {
+.nav-link:active {
+  color: #404bbf;
+}
+.adress-item-link {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -59,10 +62,10 @@ address {
   font-style: normal;
   letter-spacing: 0.02em;
 }
-.socials-item-link:hover {
+.adress-item-link:hover {
   color: #404bbf;
 }
-.socials-item-link:focus {
+.adress-item-link:focus {
   color: #404bbf;
 }
 .section-page {
@@ -91,7 +94,7 @@ address {
 .button-text:hover {
   background-color: #404bbf;
 }
-.button-text:active {
+.button-text:focus {
   background-color: #404bbf;
 }
 .acide-title {
@@ -164,7 +167,6 @@ address {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
   color: #2e2f42;
 }
 .preview-list-headline-text {
@@ -173,7 +175,6 @@ address {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
   color: #434455;
 }
 
@@ -196,7 +197,6 @@ address {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
   color: #f4f4fd;
 }
 .footer {
