@@ -24,14 +24,7 @@ a {
 .header-logo .logo-part {
   color: #2e2f42;
 }
-.nav-link {
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  color: #2e2f42;
-  letter-spacing: 0.02em;
-  line-height: 1.5;
-}
+
 .nav-link-button {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -46,12 +39,7 @@ a {
 .nav-link-button:focus {
   color: #404bbf;
 }
-.nav-link:hover {
-  color: #404bbf;
-}
-.nav-link:active {
-  color: #404bbf;
-}
+
 .adress-item-link {
   font-size: 16px;
   font-weight: 500;
@@ -122,9 +110,8 @@ address {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  line-height: 1.11;
   text-transform: capitalize;
-  line-height: 1.2;
+  line-height: 1.1;
 }
 .col-list {
   background-color: #ffffff;
