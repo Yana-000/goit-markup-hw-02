@@ -97,9 +97,7 @@ address {
 .button-text:focus {
   background-color: #404bbf;
 }
-.acide-title {
-  display: none;
-}
+
 .grid-title-list {
   font-family: "Roboto" sans-serif;
   font-size: 20px;
