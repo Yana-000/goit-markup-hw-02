@@ -56,19 +56,6 @@ a {
 address {
   font-style: normal;
 }
-.adress-item-contact {
-  font-size: 16px;
-  font-weight: 500;
-  color: #434455;
-  letter-spacing: 0.02em;
-  line-height: 1.5;
-}
-.adress-item-contact:focus {
-  color: #404bbf;
-}
-.adress-item-contact:hover {
-  color: #404bbf;
-}
 .section-page {
   background-color: #2e2f42;
 }
